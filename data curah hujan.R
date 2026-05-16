@@ -7,3 +7,4 @@ print(ringkasan_cuaca)
 # 3. Menghitung curah hujan tertinggi
 curah_maksimum <- max(curah_hujan)
 print(curah_maksimum)
+# Ini adalah syntax tambahan langsung dari web GitHub
